@@ -400,19 +400,19 @@ vless://3f9c8463-8610-3ed8-86c8-a26713067825@chatgpt.com:443?encryption=none&sec
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsInBvcnQiOjQ0MywiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwicGF0aCI6Ii92bWVzc3dzIiwidGxzIjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 
-trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#hamedp71
-
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=random&security=reality&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#hamedp71
+
+trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#hamedp71
 
 vmess://eyJhZGQiOiI0NS4xNS4xODUuMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzUwM2E5NmEtYTJmNS00ODQ3LWEzMWYtMjBjMTdlY2YzYmU0IiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 
 vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71
-
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#hamedp71
 
 vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71
 
 vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyMGQ0YjRmLTMzNTctNGRjNy05MzgxLTZlNWZkNTJiNWYzOSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
@@ -421,8 +421,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=%2F#hamedp71
 
 trojan://trojan@22b.net:2087?path=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&security=tls&type=ws&sni=store.timimi.dpdns.org#hamedp71
-
-trojan://freedom@irancell.buzzmuzzpanel.online:443?security=tls&sni=047.eleCTROCelLco-Cf-047.woRkers.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=047.electrocellco-cf-047.workers.dev&path=%2FeyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#hamedp71
 
 vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev:443?encryption=none&security=tls&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&type=ws&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=ws#hamedp71
 
@@ -465,6 +463,8 @@ trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&ho
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedp71
 
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71
+
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71
 
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxIiwiYWRkIjoiOC4yMTguMTkuMTAxIiwicG9ydCI6NDQzLCJpZCI6IjQ2OWU5YTM4LWI2NGUtNDZjMy05NzkzLTIzNDE1ODk0MmQzYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NjEyMTQ5MDIud3BnMjcueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuMTc2MTIxNDkwMi53cGcyNy54eXoiLCJmcCI6bnVsbCwibmFtZSI6IvCfh63wn4ewIEhLIDMifQ
 
@@ -537,8 +537,6 @@ vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757?type=ws&amp;f
 vless://9523a24b-f6bf-339e-9950-32829162ffc2@104.16.250.22:443?path=/db1024f4e56f542c&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=dabaif0.webn.cc&fp=chrome&type=ws&allowInsecure=0&sni=dabaif0.webn.cc#hamedp71
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#hamedp71
-
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71
 
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws#hamedp71
 
