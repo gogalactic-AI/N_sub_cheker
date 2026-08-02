@@ -3,4 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 trojan://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@jumao91.shop:2096?path=%2Fproxyip%3D45.207.156.255&security=tls&insecure=0&host=jumao91.shop&type=ws&allowInsecure=0&sni=jumao91.shop#hamedp71%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#hamedp71%3A%3A%E2%9D%93
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@www.speedtest.net:443?path=/CmtD3y72juVnvSxU?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv#hamedp71%3A%3A%E2%9D%93
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedp71%3A%3A%E2%9D%93
+trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71%3A%3A%E2%9D%93
